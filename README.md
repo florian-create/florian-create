@@ -1,15 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=f5f5f7&height=90&text=Florian%20Cailles&fontSize=32&fontColor=6e6e73&fontAlignY=45&desc=GTM%20Engineer%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20%E2%80%A2%20AI&descSize=13&descAlignY=72&descColor=86868b)
 
-```python
-class FlorianCailles:
-    role      = "GTM Engineer"
-    languages = ["Python", "JavaScript", "TypeScript", "SQL"]
-    focus     = ["Data Engineering", "Web Scraping", "AI/LLM Integration", "API Development"]
-    tools     = ["Flask", "Selenium", "BeautifulSoup", "Pandas", "PostgreSQL", "Supabase"]
-    ai_stack  = ["OpenAI API", "Claude API", "Groq Whisper", "LangChain"]
-    infra     = ["Render", "GitHub Actions", "REST APIs", "Make", "Clay"]
-```
-
 **What I Build**&emsp; Python scrapers & APIs on Render · LLM pipelines (OpenAI, Claude, Groq) · Data enrichment & lead scoring · Automation workflows · CLI tools
 
 **Languages**&emsp;
