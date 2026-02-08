@@ -10,17 +10,9 @@ class FlorianCailles:
     infra     = ["Render", "GitHub Actions", "REST APIs", "Make", "Clay"]
 ```
 
-### What I Build
+**What I Build**&emsp; Python scrapers & APIs on Render · LLM pipelines (OpenAI, Claude, Groq) · Data enrichment & lead scoring · Automation workflows · CLI tools
 
-- **Python scrapers & data extraction APIs** deployed on Render
-- **LLM-powered pipelines** for content generation, lead qualification, transcription
-- **Data enrichment systems** with lead scoring, ICP matching, intent signals via SQL & Python
-- **Automation workflows** connecting databases, APIs & AI models into production
-- **CLI tools** like a push-to-talk transcription app using Groq Whisper (macOS)
-
-### Tech Stack
-
-**Languages & Frameworks**&emsp;
+**Languages**&emsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
