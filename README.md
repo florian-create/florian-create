@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=f5f5f7&height=90&text=Florian%20Cailles&fontSize=32&fontColor=1d1d1f&fontAlignY=45&desc=GTM%20Engineer%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20%E2%80%A2%20AI&descSize=13&descAlignY=72&descColor=86868b)
+![header](https://capsule-render.vercel.app/api?type=rect&color=f5f5f7&height=90&text=Florian%20Cailles&fontSize=32&fontColor=424245&fontAlignY=45&desc=GTM%20Engineer%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20%E2%80%A2%20AI&descSize=13&descAlignY=72&descColor=86868b)
 
 ### About
 
