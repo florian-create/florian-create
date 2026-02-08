@@ -1,10 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=header&text=Florian%20Cailles&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=GTM%20Engineer%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20%E2%80%A2%20AI&descSize=14&descAlignY=62&descColor=8b949e)
-
-<p align="center">
-  <a href="https://linkedin.com/in/florian-cailles"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:cailles.florian@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://aura.camp"><img src="https://img.shields.io/badge/aura.camp-000000?style=for-the-badge&logo=safari&logoColor=white" /></a>
-</p>
+![header](https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=90&text=Florian%20Cailles&fontSize=35&fontColor=ffffff&fontAlignY=50&desc=GTM%20Engineer%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20%E2%80%A2%20AI&descSize=13&descAlignY=75&descColor=8b949e)
 
 ---
 
@@ -36,11 +30,14 @@ class FlorianCailles:
 
 ### Tech Stack
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,flask,html,css,selenium,postgres,supabase,git,github,vscode&perline=6" />
-  </a>
-</p>
+**Languages & Frameworks**&emsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **AI & LLMs**&emsp;
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
