@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=90&text=Florian%20Cailles&fontSize=35&fontColor=ffffff&fontAlignY=50&desc=GTM%20Engineer%20%E2%80%A2%20Python%20%E2%80%A2%20Data%20%E2%80%A2%20AI&descSize=13&descAlignY=75&descColor=8b949e)
 
----
-
 ### About
 
 GTM Engineer. I write Python scripts, build data pipelines and integrate LLMs to solve B2B problems.
@@ -16,8 +14,6 @@ class FlorianCailles:
     infra     = ["Render", "GitHub Actions", "REST APIs", "Make", "Clay"]
 ```
 
----
-
 ### What I Build
 
 - **Python scrapers & data extraction APIs** deployed on Render
@@ -25,8 +21,6 @@ class FlorianCailles:
 - **Data enrichment systems** with lead scoring, ICP matching, intent signals via SQL & Python
 - **Automation workflows** connecting databases, APIs & AI models into production
 - **CLI tools** like a push-to-talk transcription app using Groq Whisper (macOS)
-
----
 
 ### Tech Stack
 
@@ -63,9 +57,3 @@ class FlorianCailles:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
 
----
-
-<p align="center">
-  <b>Open to collaborations on Python, data, AI and automation projects.</b><br><br>
-  <a href="https://linkedin.com/in/florian-cailles"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
