@@ -1,4 +1,4 @@
-![Florian Cailles - Lead Growth Engineer @ Kestra](banner.jpg)
+![Florian Cailles - Lead Growth Engineer @ Kestra](banner.png)
 
 ---
 
