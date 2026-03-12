@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.jpg" alt="Florian Cailles - Lead Growth Engineer @ Kestra" width="100%">
-</p>
+![Florian Cailles - Lead Growth Engineer @ Kestra](banner.jpg)
 
 ---
 
