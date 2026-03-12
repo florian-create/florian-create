@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Florian Cailles - Lead Growth Engineer @ Kestra" width="100%">
+  <img src="banner.jpg" alt="Florian Cailles - Lead Growth Engineer @ Kestra" width="100%">
 </p>
 
 ---
