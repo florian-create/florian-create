@@ -2,16 +2,6 @@
 
 Lead Growth Engineer @ [Kestra](https://kestra.io)
 
-I build data pipelines, orchestration workflows, and automation systems for growth.
+I build data pipelines and orchestration workflows for growth automation. Specialized in web crawling, complex data acquisition, and AI-powered automation systems.
 
-**Technical stack:**
-- Data engineering (Python, BigQuery, API integrations)
-- Workflow orchestration (Kestra, airflow-style automation)
-- AI/LLM automation (Gemini, Claude, prompt engineering)
-- Web scraping & data acquisition at scale
-
-**Current focus:** Building growth infrastructure that bridges engineering and go-to-market.
-
----
-
-Writing about growth engineering on [Medium](https://medium.com/@florian-cailles)
+Python, BigQuery, workflow orchestration, LLM integration. Building growth infrastructure that bridges engineering and go-to-market.
