@@ -2,8 +2,14 @@
 
 ---
 
-I build data pipelines, AI workflows, and growth automation at [Kestra](https://kestra.io) — the open-source orchestration platform.
+**Lead Growth Engineer @ Kestra**
 
-Currently writing about growth engineering, AI-powered workflows, and automation on Medium.
+I build data pipelines and orchestration workflows for growth automation.
+
+---
+
+**Stack:** Python, data engineering, workflow orchestration, AI automation
+
+**Writing:** Growth engineering & automation on Medium
 
 [![Medium](https://img.shields.io/badge/Medium-@florian--cailles-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@florian-cailles)
